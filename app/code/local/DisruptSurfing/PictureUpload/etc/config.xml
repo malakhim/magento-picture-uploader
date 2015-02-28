@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- The root node for Magento module configuration -->
+<config>
+
+    <!--
+        The module's node contains basic
+        information about each Magento module
+    -->
+    <modules>
+
+        <!--
+            This must exactly match the namespace and module's folder
+            names, with directory separators replaced by underscores
+        -->
+        <DisruptSurfing_PictureUpload>
+
+            <!-- The version of our module, starting at 0.0.1 -->
+            <version>0.0.1</version>
+
+        </DisruptSurfing_PictureUpload>
+
+    </modules>
+
+    <frontend>
+        
+        <!-- The routing for frontend -->
+        <routers>
+            <pictureupload>
+                <use>standard</use>
+                <args>
+                    <module>DisruptSurfing_PictureUpload</module>
+                    <frontName>pictureupload</frontName>
+                </args>
+            </pictureupload>
+        </routers>
+
+        <layout>
+            <updates>
+                <pictureupload>
+                    <file>pictureupload.xml</file> <!-- Layout file name-->
+                </pictureupload>
+            </updates>
+        </layout>
+    </frontend>
+
+    <global>
+        <blocks>
+            <pictureupload>
+                <class>DisruptSurfing_PictureUpload_Block</class>
+            </pictureupload>
+        </blocks>
+        <models>
+            <!-- Group name, should match the module name-->
+            <pictureupload>
+                <!-- Base name all models will have, also known as the class prefix-->
+                <!-- This is the path under code\local\ where models will be located using the Mage::getModel() function -->
+                <class>DisruptSurfing_PictureUpload_Model</class>
+                <!-- Resourcemodel indicates which resource model to use, at this point it's just the name of the group name followed by _resource -->
+                <!-- Need to create our own resource, can't use the existing core_resource-->
+                <resourceModel>pictureupload_resource</resourceModel>
+            </pictureupload>
+            <!-- _resource tag has to be same name as the resourcemodel above-->
+            <pictureupload_resource>
+                <class>DisruptSurfing_PictureUpload_Model_Resource</class>
+                <!-- Defines the table to use, using the entity we defined in model/resource/picture.php for the picture.php model @_@ -->
+                <entities>
+                    <picture>
+                        <table>pictureupload_pictures</table>
+                    </picture>
+                </entities>
+            </pictureupload_resource>
+        </models>
+    </global>
+</config>

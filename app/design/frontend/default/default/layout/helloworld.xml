@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<layout version="0.1.0">
+	<!-- This is the handle
+	- helloworld is the router name declared in config.xml in app\code\tutorial\helloworld\etc\config.xml
+	- index is the controller name
+	- index is the action name-->
+	<helloworld_index_index>
+		<reference name="content">
+			<!-- type means path to block file, ie app/code/local/tutorialmagento/Helloworld/Block/helloworld-->
+			<!-- name means the name of the block in the handle -->
+			<!-- Template has to be declared, so that every use of $this will refer to this template as long as it's done within this handle -->
+			<block type="helloworld/helloworld" name="helloworld" template="helloworld/helloworld.phtml" />
+		</reference>
+	</helloworld_index_index>
+</layout>

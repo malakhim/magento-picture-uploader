@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <pictureupload_index_index>
+        <reference name="content">
+        <!-- <default> -->
+            <!-- <block type="page/html" name="root" output="toHtml" template="pictureupload/pictureupload.phtml" /> -->
+            <!-- <block type="pictureupload/pictureupload" name="root" template="disrupt/pictureupload/pictureupload.phtml" /> -->
+        <!-- </default> -->
+        </reference>
+    </pictureupload_index_index>
+</layout>

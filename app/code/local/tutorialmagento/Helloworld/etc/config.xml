@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<tutorialMagento_Helloworld>
+			<!-- Current version of the module -->
+			<version>0.1.0</version>
+		</tutorialMagento_Helloworld>
+	</modules>
+	<frontend>
+		<routers>
+			<helloworld>
+				<use>standard</use>
+				<args>
+					<!-- Blocks are stored in app/code/local/tutorialmagento/HelloWorld/Block -->
+					<module>tutorialmagento_Helloworld</module>
+					<!-- Router/frontname is helloworld -->
+					<frontname>helloworld</frontname>
+				</args>
+			</helloworld>
+		</routers>
+		<layout>
+			<updates>
+				<helloworld>
+					<!-- Frontend layout file is helloworld.xml -->
+					<file>helloworld.xml</file>
+				</helloworld>
+			</updates>
+		</layout>
+	</frontend>
+	<global>
+		<blocks>
+			<helloworld>
+				<class>tutorialmagento_Helloworld_Block</class>
+			</helloworld>
+		</blocks>
+	</global>
+</config>

@@ -1,0 +1,951 @@
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:07+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:16:17+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:44+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:17:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T01:44:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T02:37:20+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:12:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:07+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:13:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:26+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:40+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:43+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:51+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:14:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T05:15:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Opening and ending tag mismatch: routers line 26 and frontend  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/frontend&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 94: parser error : Opening and ending tag mismatch: frontend line 25 and config  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 94: parser error : Premature end of data in tag config line 4  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:35+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Opening and ending tag mismatch: routers line 26 and frontend  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/frontend&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():                ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 94: parser error : Opening and ending tag mismatch: frontend line 25 and config  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 94: parser error : Premature end of data in tag config line 4  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():          ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:30:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:31:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:33:17+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:35:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:43:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:26+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:44:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:01+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:45:04+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T08:49:12+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T09:24:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-23T23:57:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:12+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:48:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:52:27+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:53:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:54:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:15+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:27+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:34+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:55:37+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:32+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:57:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:01+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:02+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:12+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:23+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:25+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:32+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:38+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T01:58:43+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:42+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:46+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:16:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:02+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:08+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:17:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-24T02:42:43+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-25T13:48:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:24:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:48+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:29:58+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:10+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T04:30:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T08:12:02+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:36:50+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:56+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:58:57+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-27T23:59:16+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:00+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:38+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:01:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:07+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:02:20+00:00 CRIT (2): Not valid template file:frontend\base\default\template\pictureupload/pictureupload.phtml
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:03:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:45+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:14:57+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:29+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:15:34+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:16:31+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:17:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:39+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:44+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:45+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:22:55+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:03+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:26+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:30+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:23:47+00:00 CRIT (2): Not valid template file:frontend\base\default\template\disruptsurfing/pictureupload/pictureupload.phtml
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:53+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:24:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:11+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:25:28+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:26:55+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:52+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:35:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:03+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:36:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:38:57+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:40:45+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:43:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:45:25+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:47:36+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:04+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:49:54+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:50:35+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:19+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:19+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T00:51:33+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Opening and ending tag mismatch: reference line 8 and block  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): 	    	&lt;/block&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): 	    	        ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Opening and ending tag mismatch: pictureupload_index_index line 7 and reference  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): 	    &lt;/reference&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): 	                ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 21: parser error : Opening and ending tag mismatch: layout line 2 and pictureupload_index_index  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/pictureupload_index_index&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():                                 ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 22: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():     &lt;pictureupload_index_goodbye&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:09+00:00 ERR (3): Warning: simplexml_load_string():     ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:03:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:19:48+00:00 ERR (3): Warning: include(Disrupt\PictureUpload\Model\Picture.php): failed to open stream: No such file or directory  in C:\wamp4\www\disrupt\lib\Varien\Autoload.php on line 94
+2015-02-28T01:19:48+00:00 ERR (3): Warning: include(): Failed opening 'Disrupt\PictureUpload\Model\Picture.php' for inclusion (include_path='C:\wamp4\www\disrupt\app\code\local;C:\wamp4\www\disrupt\app\code\community;C:\wamp4\www\disrupt\app\code\core;C:\wamp4\www\disrupt\lib;.;C:\php\pear')  in C:\wamp4\www\disrupt\lib\Varien\Autoload.php on line 94
+2015-02-28T01:19:48+00:00 ERR (3): Warning: get_class() expects parameter 1 to be object, boolean given  in C:\wamp4\www\disrupt\app\code\local\DisruptSurfing\PictureUpload\controllers\IndexController.php on line 23
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:06+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:18+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:20:20+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : StartTag: invalid element name  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 1: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/pre&gt;  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():  ^  in C:\wamp4\www\disrupt\lib\Varien\Simplexml\Config.php on line 510
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 19: parser error : Opening and ending tag mismatch: reference line 8 and block  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): 	    	&lt;/block&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): 	    	        ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 20: parser error : Opening and ending tag mismatch: pictureupload_index_index line 7 and reference  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): 	    &lt;/reference&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): 	                ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 21: parser error : Opening and ending tag mismatch: layout line 2 and pictureupload_index_index  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():     &lt;/pictureupload_index_index&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():                                 ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 22: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():     &lt;pictureupload_index_goodbye&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():     ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450

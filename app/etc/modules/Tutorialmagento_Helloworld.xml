@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<config>
+	<modules>
+		<tutorialmagento_Helloworld>
+			<!-- This module is active? -->
+			<active>true</active>
+			<!-- Code is placed in the local folder, not community or core-->
+			<codePool>local</codePool>
+		</tutorialmagento_Helloworld>
+	</modules>
+</config>
