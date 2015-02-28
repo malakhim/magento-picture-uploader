@@ -1,17 +1,58 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-    <title>Hello World</title>
-    <style type="text/css">
-        body {
-            background-color:#f00;
-        }
-    </style>
-</head>
-<body>
-	<h1>Links</h1>
-	<?php echo $this->getChildHtml('top.links');?>
-	<?php echo $this->getChildHtml('customer_form_register'); ?>
-</body>
-</html>
+<?php
+/**
+ * This is the block file for picture upload module for Disrupt
+ * @category design
+ * @package pictureupload
+ * @copyright Copyright (c) 2015 Disrupt Industries
+ * @author Bryan Wu
+ * @todo
+ * 	- Validation
+ * 	- Sanitisation
+ * 	- Styling
+ * 	- Compulsory fields validation
+ */
+?>
+<style type="text/css">
+	#banner-image{ 
+		width: 100%
+	}
+	#imageupload-copy{
+		width: 50%;
+		display: inline-table;
+		margin-top: 15em;
+	}
+	#download-instructions{
+		float: right;
+		width: 50%;
+		display: inline;
+	}
+	#download-instructions-image{
+		display: block;
+		margin:auto;
+		border: 1px solid black;
+		margin-top: 5em;
+	}
+	#bottom{
+		margin-top: 10em;
+	}
+</style>
+<div id="top">
+	<div id="banner"><img id="banner-image" src="http://placekitten.com/g/800/150"/></div>
+</div>
+<div id="middle">
+	<div id="imageupload-copy">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt porttitor auctor. Etiam sed odio nisl. Fusce vestibulum, nibh vel dignissim venenatis, tellus tortor vehicula libero, non rutrum metus ante nec magna. Mauris vitae est nec lectus euismod viverra. Nulla pulvinar est sed ligula dignissim posuere. Duis congue enim at augue gravida scelerisque. Proin sollicitudin mi metus, quis pulvinar tortor suscipit vel. Pellentesque eget lacus malesuada, malesuada nulla dapibus, laoreet quam. Cras condimentum magna non condimentum tincidunt. Duis sit amet sem neque. Fusce eros sapien, hendrerit et euismod eget, ultricies et ex. Vestibulum dapibus vitae ex eu molestie.</div>
+	<div id="download-instructions"><img id="download-instructions-image" src="http://placekitten.com/g/300/400"/></div>
+</div>
+<div id="bottom">
+	<form id="picture-upload-form" name="doc-form" method="post" action="" enctype="multipart/form-data">
+		<label for="name">Name</label>
+		<input type="text" id="name" title="Name" name="name"/><br/>
+		<label for="email">Email</label>
+		<input type="text" id="email" title="Email" name="email"/><br/>
+		<label for="title">Title</label>
+		<input type="text" id="title" title="Title" name="title"/><br/>
+		<label>Upload Document</label>
+		<input type="file" title="File" name="surfimage"><br/>
+		<button type="submit" title="Save"><span>Upload</span></button>
+	</form>
+</div>

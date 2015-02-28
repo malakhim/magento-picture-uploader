@@ -2,10 +2,48 @@
 
 class DisruptSurfing_PictureUpload_IndexController extends Mage_Core_Controller_Front_Action{
 
+	/**
+	 * Handles image upload template and file processing
+	 * TODO: Separate file processing
+	 * TODO: Check if file already exists
+	 * TODO: Limit file size
+	 * TODO: Limit file types (Check with Gary what file types are allowable)
+	 * TODO: Check with Gary if duplicates are allowed
+	 * TODO: Check with Gary if we want these images to be left on server after email has been sent
+	 * TODO: Create install script for database
+	 * TODO: Add items into database
+	 * TODO: Send email after items loaded into database
+	 */
 	public function indexAction(){
 		$this->loadLayout();
 
 		$this->renderLayout();
+
+		if(isset($_FILES['surfimage']['name']) && $_FILES['surfimage']['name'] != '')
+		{
+		    try
+		    {       
+		        $path = Mage::getBaseDir().DS.'uploaded_surfboard_images'.DS;  
+		        $fname = $_FILES['surfimage']['name']; 
+		        // Load magento's file uploader class
+		        $uploader = new Varien_File_Uploader('surfimage');
+		        // Allowed extensions
+		        $uploader->setAllowedExtensions(array('jpg','png','gif','jpeg','bmp'));
+		        // Create the directory if it doesn't exist
+		        $uploader->setAllowCreateFolders(true);
+		        // If file already exists, uploaded file's name will be changed
+		        $uploader->setAllowRenameFiles(false);
+		        // If true, file dispersion is supported - These are small files so we're not allowing that
+		        $uploader->setFilesDispersion(false);
+		        // Save file
+		        $uploader->save($path,$fname);
+		         
+		    }
+		    catch (Exception $e)
+		    {
+		        echo 'Error Message: '.$e->getMessage();
+		    }
+		}
 	}
 
 	public function goodbyeAction(){
