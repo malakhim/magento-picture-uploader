@@ -949,3 +949,235 @@
 2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 22: parser error : Extra content at the end of the document  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
 2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():     &lt;pictureupload_index_goodbye&gt;  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
 2015-02-28T01:23:41+00:00 ERR (3): Warning: simplexml_load_string():     ^  in C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\Layout\Update.php on line 450
+2015-03-01T12:00:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:01:42+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:05:06+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:27:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:28:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:29:38+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-01T12:41:42+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T00:58:12+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T00:58:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T00:59:17+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T00:59:45+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:00:10+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:01:36+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:01:49+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:02:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:02:23+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:02:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:03:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:03:54+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:07:02+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:07:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:07:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:10:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:10:54+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:12:56+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:13:29+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:13:47+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:13:59+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>
+2015-03-02T01:14:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\wamp4\www\disrupt\lib\Zend\Controller\Response\Abstract.php:768
+[2] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Response\Http.php:84
+[3] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Controller\Varien\Front.php:184
+[4] C:\wamp4\www\disrupt\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\wamp4\www\disrupt\app\Mage.php:684
+[6] C:\wamp4\www\disrupt\index.php:87
+</pre>

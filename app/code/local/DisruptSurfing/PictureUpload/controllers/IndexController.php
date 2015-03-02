@@ -11,8 +11,9 @@ class DisruptSurfing_PictureUpload_IndexController extends Mage_Core_Controller_
 	 * TODO: Check with Gary if duplicates are allowed
 	 * TODO: Check with Gary if we want these images to be left on server after email has been sent
 	 * TODO: Create install script for database
-	 * TODO: Add items into database
 	 * TODO: Send email after items loaded into database
+	 * TODO: Change email back to Disrupt
+	 * TODO: Handle error messages gracefully (using session?)
 	 */
 	public function indexAction(){
 		$this->loadLayout();
@@ -23,6 +24,8 @@ class DisruptSurfing_PictureUpload_IndexController extends Mage_Core_Controller_
 		{
 		    try
 		    {       
+		    	// Add file to database
+		    	
 		        $path = Mage::getBaseDir().DS.'uploaded_surfboard_images'.DS;  
 		        $fname = $_FILES['surfimage']['name']; 
 		        // Load magento's file uploader class
@@ -37,7 +40,41 @@ class DisruptSurfing_PictureUpload_IndexController extends Mage_Core_Controller_
 		        $uploader->setFilesDispersion(false);
 		        // Save file
 		        $uploader->save($path,$fname);
-		         
+		        
+		        $picture = Mage::getModel('pictureupload/picture');
+		        $picture->setName($_POST['name']);
+		        $picture->setEmail($_POST['email']);
+		        $picture->setIp($_SERVER['REMOTE_ADDR']);
+		        $picture->setFilename($_FILES['surfimage']['name']);
+		        $picture->setTimestamp(microtime(true));
+		        $picture->setTitle($_POST['title']);
+		        $picture->save();
+
+		        // Send email to Disrupt
+		        $body = "Hi there, ".$_POST['name']." has uploaded a new image to put on a surfboard";
+		        $mail = Mage::getModel('core/email');
+		        $mail->setToName('Disrupt');
+		        $mail->setToEmail('malakhim@gmail.com');
+		        $mail->setBody($body);
+		        $mail->setSubject('A new image has been uploaded');
+		        $mail->setFromEmail(Mage::getStoreConfig('trans_email/ident_support/email'));
+		        $mail->setFromName(Mage::getStoreConfig('trans_email/ident_support/name'));
+		        $mail->setType('html');
+		        try{
+		        	$mail->send();
+		        	Mage::getSingleton('core/session')->addSuccess('Your request has been sent');
+		        	// TODO: Redirect user to view page upon success
+		        	$this->_redirect('pictureupload/index/view');
+		        }
+
+		        catch (Exception $e) {
+			   		Mage::getSingleton('core/session')->addError('Unable to send. Mailing error: '.$e->getMessage());
+			   		echo 'Mailing error: '.$e->getMessage();
+				}
+		        //FIXME: Debugging testing redirect
+				finally{
+		        	$this->_redirect('pictureupload/index/view');
+				}
 		    }
 		    catch (Exception $e)
 		    {
@@ -46,59 +83,22 @@ class DisruptSurfing_PictureUpload_IndexController extends Mage_Core_Controller_
 		}
 	}
 
-	public function goodbyeAction(){
+	public function viewAction(){
 		$this->loadLayout();
 
-		$this->renderLayout();	
-	}
+		// Get block names - Debugging, for local.xml
+		// $blocks = Mage::app()->getLayout()->getAllBlocks();
+		// var_dump(array_keys($blocks));
+		
+		// Pull database entries into collection
+		$images = Mage::getModel('pictureupload/picture')->getCollection()->getData();
 
-	public function testAction(){
-		echo "Setup!";
-	}
+		// Pass to block
+		Mage::register('uploaded_images',$images);
 
-	public function testModelAction(){
-		// $picture = Mage::getModel('pictureupload/picture');
-		// echo get_class($picture);
-
-		// Get request parameters and assign to $params
-	    $params = $this->getRequest()->getParams();
-	    $picture = Mage::getModel('pictureupload/picture');
-	    echo("Loading the picture with an ID of ".$params['picture_id']);
-	    $picture->load($params['picture_id']);
-	    $data = $picture->getData();
-	    var_dump($data);
-	}
-
-	public function createNewPostAction(){
-		$picture = Mage::getModel('pictureupload/picture');
-		$picture->setFilename('testpic2.jpg');
-		$picture->setName('Bob Marley');
-		$picture->setEmail('bob@bob.com');
-		$picture->setIp('1.1.1.1');
-		$picture->save();
-		echo 'picture with ID '.$picture->getID().' created!';
-	}
-
-	public function editPictureAction(){
-		$picture = Mage::getModel('pictureupload/picture');
-		$picture->load(1);
-		$picture->setName('John Smith');
-		$picture->save();
-		echo 'Post edited';
-	}
-
-	public function deletePictureAction(){
-		$picture = Mage::getModel('pictureupload/picture');
-		$picture->load(1);
-		$picture->delete();
-		echo 'Picture deleted';
-	}
-
-	public function showAllPicturesAction(){
-		$pictures = Mage::getModel('pictureupload/picture')->getCollection();
-		foreach($pictures as $pic){
-			echo '<h3>'.$pic->getFilename().'</h3>';
-			echo nl2br($pic->getName());
-		}
+		// Show array of images on screen, with corresponding titles and artists
+		// Link to like/share buttons for each
+		
+		$this->renderLayout();
 	}
 }

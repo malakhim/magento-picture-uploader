@@ -5,23 +5,35 @@
     <!-- Setting the pictureupload tag here allows us to use the pictureupload action name handle instead -->
     <!-- Format of pictureupload_index_index follows the URI pictureupload/index/index-->
     <pictureupload_index_index>
-    	<reference name="root">
+    	<reference name="left">
     		<!-- <action name="setTemplate"> -->
     			<!-- The tag names in action tags are completely arbitrary-->
     			<!-- <template>disrupt/pictureupload/pictureupload.phtml</template> -->
     		<!-- </action> -->
     		<!-- Obselete, has been replaced with the action tag-->
-    		<!-- Re-enabled since the action tags don't work-->
+    		<!-- Re-enabled since the action tags don't work for now (ref name incorrect)-->
 	        <block type="page/html" name="root" output="toHtml" template="disrupt/pictureupload/pictureupload.phtml" />
-        	<!-- Enable access to the customer registration form from within the index file-->
-        	<!-- Name has to correspond with the child blocks argument in the .phtml file-->
-        	 <block type="customer/form_register" name="customer_form_register" template="customer/form/register.phtml"/>
-        	 <block type="page/template_links" name="top.links"/>
-	    	<!-- </block> -->
 	    </reference>
     </pictureupload_index_index>
-    <pictureupload_index_goodbye>
-    	<!-- This duplicates the pictureupload index from above-->
-    	<update handle="pictureupload_index_index" />
-    </pictureupload_index_goodbye>
+    <pictureupload_index_view>
+    	<reference name="head">
+    		<action method="addItem">
+    			<type>js</type>
+				<name>lightbox/js/jquery-1.11.0.min.js</name>
+			</action>
+			<action method="addItem">
+    			<type>js</type>
+				<name>lightbox/js/lightbox.min.js</name>
+			</action>
+			<action method="addItem">
+    			<type>js_css</type>
+				<name>lightbox/css/lightbox.css</name>
+			</action>
+
+		</reference>
+			<remove name="right"/>
+			<reference name="left">
+			<block type="core/template" name="picupload_view" template="disrupt/pictureupload/view.phtml"></block>
+	    </reference>
+    </pictureupload_index_view>
 </layout>
