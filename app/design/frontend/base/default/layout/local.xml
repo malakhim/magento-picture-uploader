@@ -11,7 +11,8 @@
     			<!-- <template>disrupt/pictureupload/pictureupload.phtml</template> -->
     		<!-- </action> -->
     		<!-- Obselete, has been replaced with the action tag-->
-    		<!-- Re-enabled since the action tags don't work for now (ref name incorrect)-->
+    		<!-- Disabled since the action tags don't work for now-->
+    		<!-- Figured out what was wrong, can't call ref name root and then perform actions on it - Will fix later -->
 	        <block type="page/html" name="root" output="toHtml" template="disrupt/pictureupload/pictureupload.phtml" />
 	    </reference>
     </pictureupload_index_index>
@@ -31,7 +32,7 @@
 			</action>
 
 		</reference>
-			<remove name="right"/>
+			<!-- <remove name="right"/> -->
 			<reference name="left">
 			<block type="core/template" name="picupload_view" template="disrupt/pictureupload/view.phtml"></block>
 	    </reference>
